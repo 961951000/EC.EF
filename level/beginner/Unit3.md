@@ -9,6 +9,10 @@
 - It doesn't have a **swimming pool**.
 - Every room has **free wireless internet**.
 - It doesn't have a **business center**.
+### 价格：
+- The room rates are **reasonable**.
+- It's about **$150 a night**.
+- It's **too expensive**.
 ### 使用下列表达询问酒店推荐：
 - **Can you recommend** a good hotel?
 - **Do you know** a good hotel in Vancouver?
@@ -19,6 +23,11 @@
 - How much is it a night?
 - Is there free wireless internet?
 - What are the rooms like?
+### 使用下列表达回答酒店推荐：
+- Sounds perfect!
+- I don't think so.
+- I'm not sure.
+- Do you know any others?
 
 ## 预订酒店
 ### 请用以下的表达在酒店预订一间房：
@@ -34,12 +43,25 @@
 - double room
 - smoking room
 - nonsmoking room
+### 房间的价格叫做 rate。费用Rates通常用于住一晚。
+- What's the **rate**?
+- It's $210 **a night**.
+### 为了将您的预订保留到您到达的时候，店员会问您的信用卡号。
+- Can I have your **credit card number**?
+- It's 3788-6672-4038-24.
+
 ### 用短语 would like +不定式进行礼貌的要求。注意would如何在主格如I, he 和 they之后缩写成'd。
 - Mr. Samuels **would like to check in** on May 21st.
 - He**'d like to have** a nonsmoking room.
 - They**'d like to check out** on January 3rd.
 ### 记得在您做要求的时候加上please更礼貌。
 - I'd like to make a reservation, **please**.
+### Would + subject + like + noun/infinitive 可用于提问。
+- **Would you like a double room**?
+- **Would you like to reserve** the room now?
+### 使用下列回答，回答含有 would 的是否疑问句：
+- Yes, please.
+- No, thank you.
 ### 首先，店员会问候您并问您他或她有什么可以帮您的。请注意may 在礼貌问句中比can 更正式。
 - **Can** I help you?
 - **May** I help you?
@@ -49,6 +71,14 @@
 - When are you checking in?
 - For how many nights?
 - Would you like a single room or a double?
+### 当您们解决好细节的时候，店员将问您是否想确认预订并询问您必要信息。
+- Would you like to reserve it now? 
+- Can I book that for you?
+- Can I have your name?
+- May I have your credit card number?
+### 当预订完成时，店员会问他或她是否还能帮到您什么。
+- Can I help you with anything else?
+- Is there anything else I can help you with?
 
 ## 登记入住酒店
 ### 确认某事，句子以so开头。
@@ -60,6 +90,16 @@
 - That's right.
 - Correct.
 - That's correct.
+### 如果信息有误，请用actually。
+- We're checking in on the 3rd and checking out on the 14th.
+- So, that's for 10 nights.
+- Actually, it's 11 nights.
+### 您纠正的那个人会用sorry about that 或 excuse me这样的表达进行道歉。
+- We're checking in on the 3rd and checking out on the 14th.
+- So, that's for 10 nights.
+- Actually, it's 11 nights.
+- Oh, sorry about that. That's 11 nights.
+- That's right.
 ### 人们常常用礼貌，友好的话语来预示着这段谈话准备结束。例如，当入住酒店时，店员会说You're all set 意味着住入手续完成。然后店员会说类似于Have a nice day这样的话。
 - You're all set.
 - That's about it. 
@@ -68,6 +108,11 @@
 - Have a pleasant stay.
 - Have a good evening.
 - Take care.
+### 这些表达通常跟随着 goodbye 或 thank you。
+- Thank you.
+- Thanks! Bye.
+- Thank you very much! Goodbye.
+- See you later.
 
 ## 结账退房
 ### 这里有一些您在酒店退房时可以用到的表达：
@@ -93,3 +138,15 @@
 ### 这有一些给予肯定的，非特定反馈的方式：
 - It was fine, thanks.
 - Everything was great.
+### 如有某事物让您感到不满，您会想告诉酒店。这里有一些例子：
+- Pretty nice, but my room was very small.
+- It was OK, but my shower wasn't very hot.
+- Actually, my bed was a little uncomfortable.
+### 酒店店员会以以下的其中一种方式予以回应：
+- I'm sorry to hear that.
+- I do apologize for that.
+- Thanks for letting us know.
+### 根据您的感受，这里有一些可能的回应：
+- That's okay.
+- No problem.
+- It's not a big deal.
