@@ -70,6 +70,14 @@
 - Take care.
 
 ## 结账退房
+### 这里有一些您在酒店退房时可以用到的表达：
+- I'd  like to **check out**, please.
+- I'm **checking out**.
+- Could I **check out**, please?
+### 退房最重要的部分当然是结算账单。店员将告诉您，您要支付多少钱：
+- That's $996.
+- Your bill comes to $996.
+- The total amount is $996.
 ### 如果您对账单有任何疑问，请用这些表达：
 - That seems high.
 - That doesn't seem right
