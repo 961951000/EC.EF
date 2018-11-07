@@ -14,6 +14,9 @@
 - Sure! What time should I come?
 - Yes. Thanks for the invitation! 
 - When is the party? 
+### 使用类似这样的表达谢绝邀请：
+- I'm sorry. I'm afraid I'm busy.
+- I can't, but thanks for the invitation.
 
 ## 在派对上与人交谈
 ### 使用类似这样的表达在派对上开启非正式对话或提出新话题
@@ -22,6 +25,12 @@
 - Anything new?
 - So, what's happening with you?
 - What's up?
+### 你也可以提及派对的某件事情。
+- Love the music. What is it?
+- Great snacks. Do you enjoy cooking?
+### 你可以说 How are you? 来问候某人或询问某人的身体状况。如果他在生病或受了伤，你可以问 How are you feeling?
+- How are you?
+- How are you feeling?
 ### 使用类似这样的表达向人表示同感：
 - Wow! That sounds incredible.
 - That's awful!
@@ -37,6 +46,14 @@
 - Good to see you again.
 ### 使用 Say hello to + 搭配人名，请求他人带你向没来派对的某人问好。
 - Say hello to Bella.
+### 使用类似下面的表达让主人知道你准备离开，同时注意主人的回答。
+- Well, it's late. I should go.
+- Thanks for coming.
+- Thanks again for the wonderful party.  
+- You're welcome! Thanks for the wine.
+### 主人和客人都可以使用类似这样的表达道别：
+- Bye! Have a good evening.
+- See you soon.
 
 ## 讨论假日计划
 ### 使用类似这样的词汇肯定回应某人的消息
@@ -46,6 +63,17 @@
 - Wow!
 - I'm going to a film festival.
 - **Fantastic!**
+### 使用类似这样的词汇表示惊奇：
+- Really?
+- What?
+- The festival tickets are $500.
+- **Really**? That's expensive.
+### 使用类似这样的词汇表示同意： 
+- I know.
+- Definitely.
+- Exactly.
+- Those costumes are beautiful.
+- **I know**. I really like them.
 ### 谈论未来发生的活动，可以使用 be + going to 搭配动词。根据当前的证据，使用这一句型表示对未来的肯定。
 - I have tickets for the festival. I **am going to see** three films.
 ### 你也可以使用 be + going to 搭配动词来表示你坚决打算做的事情。比如：
