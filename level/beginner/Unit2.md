@@ -24,6 +24,13 @@
 ### 使用 on 谈论某个地方位于的街道
 - I live **on** Maple Road.
 - The library is **on** Pine Street.
+### 使用 at 谈论街道的具体号码。
+- I live **at** 1215 Maple Road.
+- The library is **at** 57 Pine Street.
+### 街道号码有多种不同的念法。如果号码为一两个数字，可按一般的方法来念。
+- The bank is at 43 Central Boulevard.
+### 注意如果数字是 0，你可以念做 zero 或者 oh。
+- I live at 570 Beverly Drive.
 ### 使用下列问题询问某人居住的地方或某个地位的地址：
 - Where do you live?
 - I live on Pine Street.
@@ -31,6 +38,13 @@
 - It's 507 Pine Street.
 - What's the address of the restaurant?
 - The restaurant's at 819 Ocean Avenue.
+### 在得知地址后，你可能需要询问以下后续问题。
+- What's the cross street?
+- The cross street is Fourth Avenue.
+- What's your apartment number?
+- It's 2314.
+- What floor do you live on?
+- The 23rd floor.
 
 ## 指路
 ### 使用下列表达告诉他人沿街道直行：
@@ -39,6 +53,12 @@
 ### 使用表达 turn right 和 turn left 指示方向。这些表达后接 on。
 - Go straight on Pine Avenue. Then **turn right on** Central Boulevard.
 - Go down Oak Street. Next, **turn left on** Valley Road.
+### 你也可以使用这些表达告诉他人右转或左转：
+- **Go right on** Central Boulevard.
+- **Make a left on** Valley Road.
+### 要表示某个地方位于街道的右边或左边，使用以下表达：
+- His house is **on the right**.
+- The building is **on the left**.
 ### 重复路线确认时，你可以使用 so 一词。
 - Go down Main Street, and then make a right on Terrace Drive.
 - **So**, I go down Main and make a right on Terrace.
@@ -47,6 +67,16 @@
 - Correct.
 - Uh-huh.
 - Yes, that's right.
+### 或者告诉你理解错了。
+- Go down Main Street, and then make a right on Terrace Drive.
+- OK. Go down Main Street and make a left on Terrace.
+- **No. Make a right on Terrace**.
+- Oh, OK. Go down Main Street and make a right on Terrace.
+- Correct.
+### 注意：单词 right 既指方位，也是 correct 的另一种说法。
+- Make a right on Terrace Drive.
+- OK. I make a right on Terrace.
+- Yes, that's **right**.
 
 ## 询问前往某家公司的路线
 ### 四个罗经方位分别为 north (N)、south (S)、east (E) 和 west (W)，指路时常常使用这四个词。
@@ -65,6 +95,14 @@
 - Where's your office, **please**?
 - How do I get to your office, **please**?
 - Can you **please** tell me how to get there?
+### 被问话人可能需要了解你的更多信息，比如：
+- Where are you now?
+- How are you coming?
+### 在得知路线后，你可能想问多久可以到。前台可能会告诉你一个大概时间。
+- How long does it take?
+- It takes about 20 to 30 minutes.
+### 不要忘记感谢前台。
+- **Thank you** for your help!
 
 ## 描述城市的位置
 Hometown 是指你出生或长大的地方。
@@ -77,6 +115,18 @@ Hometown 是指你出生或长大的地方。
 - It's **on** the beach.
 - It's **on** a river.
 - It's **on** the coast.
+### 使用介词 in 搭配以下地理词汇。注意在此处，in 与 in the middle of 的意思相同。
+- Where is it?
+- It's **in** a forest.
+- It's **in** the mountains.
+- It's **in** the hills.
+- It's **in** a valley.
+- It's **in** the desert.
+### 说明一座城市的位置时，您也可以使用介词 in 搭配指南针的四个方向：north、south、east 和 west。
+It's **in** the north.
+It's **in** the south.
+It's **in** the east.
+It's **in** the west.
 ### 使用表达 How far is it? 询问到某地的距离。
 - Let's go to the coffee shop.
 - **How far is it?**
