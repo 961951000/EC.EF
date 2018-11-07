@@ -24,6 +24,18 @@
 ### 如果你不确定某人是否进行某一活动，使用疑问短语 do you ever。
 - **Do you ever** go fishing?
 - No, I don't.
+### 你可以使用频率副词表达你多久做某事一次。频率副词程度不一，有从表示最高频率的 always 到表示某事从未发生的 never。
+- 100% = always
+- 80%  = usually
+- 60%  = often
+- 40%  = sometimes
+- 20%  = rarely
+- 0%  = never
+### 频率副词位于句中 be 动词之后，但在所有其他动词的前面。
+- Are you ever late to work?
+- No, **I'm never** late!
+- How often do you go to the theater?
+- I **rarely go**. It's too expensive.
 ### 询问他人兴趣爱好的其他方法。
 - What does she **enjoy doing**?
 - She enjoys birdwatching.
@@ -45,7 +57,10 @@
 - Many people can play **a** musical instrument.
 ### 在特定的乐器前使用冠词 the
 - I play **the** guitar.
-
+### 你也可以使用单词 can 表示音乐才能
+- She **can** play the piano.
+### 如果你想某人为你演奏歌曲，使用下列表达。
+- Please play a song.
 ## 为来访同事制定计划
 ### 使用下列表达询问他人是否有计划。
 - **Do you have any plans** for the weekend?
@@ -56,3 +71,8 @@
 ### 使用 know 表示你确定某事。
 - What's he interested in?
 - Well, I **know** he enjoys eating out.
+### 使用 probably 表示极大的可能性。注意 probably 位于动词之前，在 be 动词之后。
+- They **probably** like listening to music.
+- There's **probably** an exhibit at the museum.
+### 在句首使用 maybe 表示稍小的可能性。
+- **Maybe** he enjoys photography.
