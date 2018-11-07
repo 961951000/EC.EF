@@ -1,6 +1,19 @@
 # 地点
 
 ## 向他人介绍你居住的地方
+### 使用 next to 表示某场所与另一场所相邻。
+- The library is **next to** the playground.
+### 使用 on the corner of + 两条街道的名称表示两条街道交汇的地方。
+- The bank is **on the corner of** Pine Street and First Street.
+### 使用 in front of 表示某场所位于另一场所的前方。
+- The bus stop is **in front of** the supermarket.
+### 使用 between + 两个场所的名称表示某场所在这两个场所之间。
+- The post office is **between** the restaurant and the movie theater.
+### 使用 behind 表示某场所在另一场所的后面。
+- The pizza place is **behind** the library.
+### 使用 across the street 表示某场所在街对面，across the street from 则表示某场所与另一场所隔街对望。
+- The bookstore is **across the street**.
+- The bookstore is **across the street from** the restaurant.
 ### 街道名称有多个不同的单词。以下是一些关键词和相应的缩写形式。缩写多用于文件、信件和邮件中正式地址的书写。如果与具体街名搭配使用，记住街道单词首字母一定要大写，比如 Fourth Avenue。
 - street = St.
 - road = Rd.
