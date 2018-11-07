@@ -17,3 +17,42 @@
 - They're **on** the running team.
 ### 使用 get together with 谈论与朋友交往
 - I like **getting together with** friends.
+
+## 询问他人的兴趣
+### 使用疑问短语 how often 询问他人某一活动的频率。
+- **How often do you** travel?
+### 如果你不确定某人是否进行某一活动，使用疑问短语 do you ever。
+- **Do you ever** go fishing?
+- No, I don't.
+### 询问他人兴趣爱好的其他方法。
+- What does she **enjoy doing**?
+- She enjoys birdwatching.
+- **What's** she **into**?
+- She's really into art.
+### 使用问句 Like what? 询问更多信息。回答使用 like 搭配动名词。
+- I do fun things near home.
+- **Like what**?
+- **Like collecting** comic books.
+### 使用表达 What else 询问其他兴趣爱好的例子
+- **What else** do you like to do?
+- Well, I really like gardening.
+
+## 谈论您的一个兴趣
+### 使用问句 Can you play a musical instrument? 询问他人的音乐才能。
+- **Can you play a musical instrument?**
+- Yes, I can play the piano.
+### 使用冠词 a 搭配常用短语 musical instrument。
+- Many people can play **a** musical instrument.
+### 在特定的乐器前使用冠词 the
+- I play **the** guitar.
+
+## 为来访同事制定计划
+### 使用下列表达询问他人是否有计划。
+- **Do you have any plans** for the weekend?
+- Yes, I'm visiting my mother.
+### 使用 can 询问可能。
+- **Can** you show him around?
+- Of course.
+### 使用 know 表示你确定某事。
+- What's he interested in?
+- Well, I **know** he enjoys eating out.
