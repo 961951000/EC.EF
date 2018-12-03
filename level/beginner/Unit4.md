@@ -3,8 +3,8 @@
 ## 邀请某人参加派对
 ### 谈论你计划要做的某事时，你可以使用现在进行时 (be + verb + -ing) 搭配将来的时间表达。
 - What **are** you **doing tomorrow**?
-- We**'re having** my parents over to dinner **next weekend**.
-- I**'m meeting** some friends **on Wednesday night**.
+- We<b>'re having</b> my parents over to dinner **next weekend**.
+- I<b>'m meeting</b> some friends **on Wednesday night**.
 ### 使用类似这样的表达提出邀请：
 - What are you doing this weekend? 
 - Are you free on Sunday?
