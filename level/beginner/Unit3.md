@@ -32,7 +32,7 @@
 ## 预订酒店
 ### 请用以下的表达在酒店预订一间房：
 - I'd like to **make a reservation**.
-- I- 'd like to **reserve a room**.
+- I'd like to **reserve a room**.
 ### 您到达酒店那天就是您checking in之日。您离开酒店那天就是您checking out之日。
 - When are you **checking in**?
 - March 15th.
@@ -52,8 +52,8 @@
 
 ### 用短语 would like +不定式进行礼貌的要求。注意would如何在主格如I, he 和 they之后缩写成'd。
 - Mr. Samuels **would like to check in** on May 21st.
-- He**'d like to have** a nonsmoking room.
-- They**'d like to check out** on January 3rd.
+- He<b>'d like to have</b> a nonsmoking room.
+- They<b>'d like to check out</b> on January 3rd.
 ### 记得在您做要求的时候加上please更礼貌。
 - I'd like to make a reservation, **please**.
 ### Would + subject + like + noun/infinitive 可用于提问。
