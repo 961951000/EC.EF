@@ -6,7 +6,7 @@
 - design > designer
 - clean > cleaner
 - act > actor
-- direct > directr
+- direct > director
 - edit > editor
 ### 哪些动词后接 -er 或者 -or，没有严格的规则，但是有一些基本的拼写规范。
 1. 就 -er 的工作名
