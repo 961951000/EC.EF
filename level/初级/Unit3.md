@@ -1,24 +1,213 @@
 # 过去
 
 ## 询问别人一周的情况
-### 日常活动
 ### 动词过去时
+许多动词过去时只用在动词词尾添加 **-ed** 即可。 
+- walk - walk**ed**
+- clean - clean**ed**
+**不规则动词**
+但是，一些最常用的动词都是不规则的，也就是说它们的过去形式不以 **-ed** 结尾。它们有多种不同的形成方式。 
+- have - **had**
+- make - **made**
+- eat - **ate**
+- drink - **drank**
+- let - **let**
+**be 动词**
+**be** 动词有两种过去时形式：**was** 和 **were**。代词 **he**、**she**、**it** 和 **I** 使用 **was**，**you**、**we** 和 **they** 使用 **were**。 
+- He **was** tired yesterday.
+- They **were** happy in Paris.
+**否定式**
+使用 **did + not** 来组成动词过去时否定式。主要动词保持原形。
+- They **did not like** London. 
+- We **did not meet** John yesterday. 
+在英语口语中，短语 **did + not** 通常缩写为 **didn't**。
+- They **didn't like** London.
+- We **didn't meet** John yesterday.
+**be** 动词的过去时否定式为 **was not** 和 **were not**，对应的缩写形式分别为 **wasn't** 和 **weren't**。
+- Frank **was not** happy in Los Angeles. > Frank **wasn't** happy in Los Angeles.
+- Oscar and Pam **were not** at home yesterday. > Oscar and Pam **weren't** at home yesterday.
+**过去时疑问句**
+在句首使用单词 **did** 来形成过去时疑问句。**did** 后使用主要动词的原形。不得在动词词尾后加 **s**。
+- **Did** he **go** to Shanghai? 
+- **Did** they **eat** dinner?
+要使用 **be** 动词组成过去时疑问句，请将 **was** 或 **were** 置于问句之首。
+- He **was** happy.
+- **Was** he happy? 
 ### 过去时间的表达
+使用下列表达来谈论过去的事情。
+'**Yesterday**'
+- I visited Carol **yesterday**.
+'**The day before yesterday**'
+- Jack and Nancy got back from Mexico **the day before yesterday**.
+**数字 + 时间单词 + ago**
+- We went to that new restaurant **two days ago**.
+**last + 时间单词**
+- I worked at a supermarket **last year**.
 ### 询问过去的事件/活动
-### 询问别人一周的情况
+**开放式问题和封闭式问题**
+开放式问题是指答案不止一个的问题。比如，**How was Paris?** 有多种可能的回答。
+- How was Paris?
+- It was great!
+- It was terrible.
+- We loved it.
+- We hated it.
+封闭式问题则只有肯定和否定两种回答：**yes** 或 **no**。
+- Did you go to Paris?
+- Yes, I did.
+- No, I didn't.
+开放式问题一般更利于推动对话。它们让和你对话的人可以自由回答，回答方法也有多种。开放式问题主要分为两种：描述性问题和意见性问题。
+**描述性问题**
+- What was it like?
+- What was the wedding like?
+- What did he look like?
+**意见性问题**
+- How did you like Beijing?
+- How was your vacation?
+- How was Russia?
+语言点：谨慎使用单词 **like**，该词有两种不同的意思。
+- 描述：What was it **like**?
+- 观点：How did you **like** it?
 
 ## 谈论你的周末
 ### 不规则动词的过去时
+许多动词的过去时形式都是不规则的，也就是说它们的过去时形式不能通过简单在词尾添加 **-ed** 形成。
+有些不规则动词的过去时和现在时截然不同，必须加以熟记。
+- go - **went**
+- eat - **ate**
+- bring - **brought**
+- leave - **left**
+- sell - **sold**
+其他不规则动词的过去时形式只是改变了一个字母，因此更容易识记。
+- make - **made**
+- rise - **rose**
+- get - **got**
+一些动词的一般现在时和过去时的形式相同。
+- cut - **cut** 
+- let - **let**
+- shut - **shut**
+动词 **read** 的一般现在时和过去时拼法相同，但读音不同。请听这两句中 **read** 的读音。
+- I often **read** novels.
+- I **read** a good novel last week.
 ### 开启对话
+开启对话有多种方法。
+**一般性问题**
+如果没有想要谈论的话题，问候完后你可以使用一个常见的一般性问题。
+- How are you doing? 
+- How are you today?
+- What's up?
+- What's happening?
+- What's going on?
+- How was your weekend?
+**特定问题**
+你可以向你认识的人询问他们的生活。
+- How was Peru?
+- How is your mom feeling?
+**陈述句**
+在有些场合，你会有一个你想讨论的话题。你可以提出陈述，然后听众会对你的陈述发表意见。
+- A: Hey, there was a great movie on last night.
+- B: Really? What was it? 
+- A: That was a great game last night!
+- B: Yeah, it was really exciting! 
 ### 改变话题
+对话从一个话题转到另一个话题，有一些表达可以帮助人们暗示他们要改变话题。
+'**By the way**'
+使用表达 **by the way** 来引入新话题，它也表示你刚想起了某事。
+- A: **By the way**, I saw Joe last night. He looked good.
+- B: Really? I'm so glad!
+'**That reminds me**'
+当你想起了想说的其他事情，使用 **that reminds me** 来转变话题。
+- A: There was a great baseball game on TV last night.
+- B: Oh, **that reminds me**. I have two tickets to tonight's game. Do you want to go?
+- A: Yeah!
+'**Anyway**'
+使用单词 **anyway** 来结束或总结话题，这样一来你可以开始一个新话题。当你听厌了某人谈论某事，非常想改变话题时，就可以使用这个词。
+- A: That restaurant wasn't very good.
+- B: No, it wasn't! The meat tasted bad, and the salad wasn't fresh. And the waiter was awful! His clothes were dirty!
+- A: **Anyway**, we're not going there again. So, how's Jane?
 
 ## 讲故事
 ### 新闻词汇
+新闻消息涵盖罪行、政治和商业等各种各样的话题。我们再次只关注 **crime**。以下是一些和 **crime**相关的有用名词。
+**与罪行相关的名词**
+- crime
+- police
+- thief
+- theft
+**thief** 是指犯偷窃罪的人，theft 则是偷窃这一事件。**thief** 一词的复数形式是不规则的： **thieves**。
+**与罪行相关的动词**
+以下是一些和 **crime** 相关的有用动词。
+- break into
+- murder
+- kill
+- arrest
+- steal
+**steal** 是不规则动词，过去式形式是 **stole**。
 ### 不定代词
+有些代词并不指代某个已知的名词，它们就是不定代词，包括以下三个单词。
+- somewhere
+- someone
+- something
+使用 **somewhere** 谈论不确定的地点。
+- John lives **somewhere** in Tokyo. I don't know his address.
+使用 **someone** 谈论不确定或不知道的人。
+- **Someone** stole a painting from the museum. 
+使用 **something** 谈论不确定的事物。
+- The thief stole **something** from the woman's bag.
+语言点：单词 **somebody** 与 **someone** 意义相同。
 ### 排列叙事的顺序
+**故事排序**
+在讲故事或写故事时，将事情发生的顺序理清很重要。理清顺序有几种方法。
+如果你描述的事情在另一件事情一天之后发生，使用短语 **the next day**。
+- They stole 15 computers on Friday night. **The next day**, the police came.
+要表示一件事情在某事多久之后发生，使用数字 **+** 时间单词 **+ later**。
+- There was a theft on Friday night. **Three days later**, we hired a security guard.
+向他人讲述某件发生的事情，你也可以使用本课中之前学到的时间表达。
+- The theft was three days **ago**.
+- They broke in **last** Friday.
+- They stole money **the day before yesterday**.
 ### 预览新闻文章
+随着你的英语更加熟练，你将开始阅读难度更大的文字，比如新闻和杂志文章。这时培养理解这些文字的策略很重要。一种有用的策略是在开始阅读故事前先预览或通看整篇文章。以下是一些具体步骤，将让你的阅读更加具有效率。
+**标题**
+标题以一种特有的简短英语形式撰写，因此起初可能会难以理解。例如，标题 **U.K.**, **U.S.** **Talk Trade** 表示英美两国协商贸易问题。由于标题涵盖文章大意，尤其应该引起你的注意。
+**照片和插图**
+照片和插图置于文中，可以让文章更容易理解，增加阅读趣味。慢慢仔细观看照片和图片。如果图片配有文字说明，阅读这些说明，获取更多有关图片和故事的信息。
+**导语**
+新闻文章的第一段称为导语，通常包含该新闻最重要的细节。导语常常引出人物、时间、时间和地点，有时也会介绍方式和原因。由于导语信息充分，因此你应该密切关注。
+**新闻来源**
+在文章上方，你可能看到至少下列一项：署名行（记者姓名）、日期栏（记者发稿的城市）和通讯社的名称。有时通讯社的名称见于括号中 **(Global News)**，有时缩写为 **(GN)**。
 
 ## 听故事
-### 远足词汇
 ### 提问过去时态的问题
+过去时疑问句如果不使用 **be** 动词，而且句首为疑问词，需要使用辅助动词 **did**。另外请注意主要动词保持原形。
+- A: **What did** you **do** on the weekend?
+- B: I played badminton.
+- A: **Where did** you **go** for your vacation?
+- B: I went to Peru.
+询问某物的所有者，使用疑问词 **whose**。
+- A: **Whose** backpack **did** you borrow?
+- B: I borrowed my brother's.
+询问某物的种类，使用疑问短语 **what kind of**。
+- A: **What kind of** tent **did** you buy?
+- B: I bought a Shelty. It's the best brand.
+- A: **What kind of** animals **did** you see?
+- B: We saw deer, wolves and a snake.
+你可以使用疑问词 **how** 与许多不同的形容词搭配，用以询问详细信息。
+- **How far did** you walk?
+- **How difficult** was the hike?
+**be** 动词疑问句不需要辅助动词 **did**。
+- A: **How was** your weekend?
+- B: It was great, thanks.
+- A: **How long was** your trip?
+- B: We hiked for two weeks.
 ### 积极聆听
+听故事不应该完全被动接受。与通常的对话相同，你应避免沉默，激发讲故事的人，不懂得时候要提问。做一个积极的聆听者。
+常常可以通过询问故事接下来的事情来激发讲故事的人。使用下列表达询问之后发生的事情：
+- And then what happened?
+- What happened next?
+- What did you do then?
+- Go on.
+请记住，升调可以将陈述句变为疑问句。使用类似下面的问题确定你理解了或表达惊奇。
+- Bears?
+- A problem with a bear?
+- And we're going to the same place?
+最好的故事会故事讲述人和听故事的人应该互动，从而营造一场难忘的活动。

@@ -98,6 +98,7 @@
 - A: Are **you two** having trouble?
 - B: Yeah, we are. I am having trouble understanding her problems.
 - A: I'm sorry to hear that.
+
 ## 评估员工
 ### 描述员工
 **评价员工的词汇**
@@ -149,6 +150,7 @@
 - B: **Neither** do I. 
 - A: I don't think she's very efficient.
 - B: **Neither** do I. 
+
 ## 给出推荐
 ### 工作中用到的副词
 副词解释how, when or where。它们可以修饰一个动词，形容词或另一个副词。许多副词以**-ly** 结尾的是最容易识别的和形成的。但是，许多副词是不以**-ly** 结尾的,识别它们的最好的方式是将它们连接到它们所修饰的动词，形容词或副词。
