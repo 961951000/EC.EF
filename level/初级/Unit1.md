@@ -1,0 +1,183 @@
+# 娱乐
+
+## 描述休闲娱乐的选择
+### 动名词和不定式
+动名词和不定式用于谈论复杂的观点。动名词由 -ing 构成，不定式由 to 加动词构成。有些动词后面既可用动名词，也能用不定式。
+动名词（动词 + **-ing**）：
+- Oscar enjoys **cooking** dinner for Frank.
+不定式（**to +** 动词）：
+- Frank plans **to eat** out.
+有的动词后面只能接动名词，有的动词则只能接不定式。有的动词既可以接动名词，也可以接不定式。
+这些动词只能后接不定式：
+- plan
+- We're **planning to go to** the soccer game.
+- want
+- We **want to see** the play in the park this week.
+- need
+- I **need to get** some money for the concert.
+这些动词只能后接动名词：
+- enjoy
+- I **enjoy listening** to music.
+- keep
+- Martin **kept playing** his guitar until midnight.
+- think about
+- We're **thinking about going** to a concert.
+这些动词可后接动名词或不定式：
+- like
+- I **like going to** musicals.
+- I **like to go to** musicals.
+- love
+- Joan **loves eating** in restaurants.
+- Joan **loves to eat** in restaurants.
+- begin
+- It **began to snow**.
+- It **began snowing**.
+### 表达能力
+使用单词 **can** 搭配动词描述能力。 
+- John **can** drive.
+Can 有两种否定形式：can't 和 cannot，它们意思相同。
+- I **can't** speak Spanish.
+- I **cannot** speak Spanish.
+Can 在句中通常不重读，Can't 通常重读。聆听句中两个单词的发音。注意 Can 说得很快。 
+短语 **know how to** 表示你具有做某事的知识或能力。添加 not 表示否定意义。 
+- I **know how to** drive.
+- I **don't know how** to swim.    
+你也可以使用短语 **good at** 和 **bad at** 描述能力程度。这些短语常常与 **really**、**very** 和 **pretty** 等副词搭配使用。
+- Carol is **really good at** chess.
+- James is **pretty bad at** computer games.
+你可以使用短语 **terrible at** 描述非常差的能力。
+- I'm **terrible at** driving.
+语言点：单词 pretty 有两层意思，它既表示某人外表迷人，做副词使用时，则修饰强调后接的形容词。
+### 询问和谈谈选择
+使用类似这样的问题向他人询问他们想做的事情和可以从事的活动：
+- What do you want to do?
+- What are we going to do tonight?
+- What's going on?
+使用短语 **there is** 和 **there are** 搭配 **and** 来列举演出活动。
+- **There's** a new movie at the theater **and** a lecture at the university.
+- **There are** some great movies **and** plays going on this week.
+
+## 谈论即将发生的活动
+### 时间和地点介词
+三个时间和地点介词 **in**、**on** 和 **at**。
+大的地区或长的时间，比如国家或年，使用 **in**。
+- Beijing is **in** China.
+- They came here **in** 2005.
+像街道等较小的地区以及星期和日期，则使用 **on**。
+- I live **on** Main Street.
+- The lecture is **on** Monday.
+- My birthday is **on** April 17th.
+地址、公司和建筑，以及表示确切时间则使用 **at**。
+- His house is **at** 465 Pine Street.
+- The concert is **at** 5 p.m.
+- The lecture is **at** the auditorium.
+使用 **in** 搭配 **morning**、**afternoon** 和 **evening**。使用 **at** 搭配 **night**、**midnight** 和 **noon**。
+- **In** the morning, I'm very tired.
+- **At** night, I like to read.
+### 请求帮助
+用下列带有 **Could you** 的问句请求帮助。
+- **Could you** do me a favor? 
+- **Could you** help me?
+你可以使用这些表达对他人的帮助请求表示同意。
+- Sure.
+- No problem.
+- OK. 
+如果你帮不了忙，你可以说 **I'm sorry, but** 来表示道歉，然后说明原因。
+- **I'm sorry, but** I'm really busy right now. 
+- **I'm really sorry, but** I can't help you. 
+### 阅读演出信息
+阅读演出描述时，你可以试着快速浏览信息，寻找关键词。不要在不懂的单词上花费大量时间，关注你知道意思的单词。
+下为关键词的一些分类：
+演出名称：
+- concert, picnic, lecture, play, musical
+演出地点：
+- auditorium, theater, aquarium, concert hall
+时间和日期：
+- on February 6, in the evening, at 5 o'clock
+地点：
+- at Martina's restaurant, in Central Park, on 5th Street
+
+## 计划与朋友晚上外出
+### 描述演出的形容词
+许多可以用来描述演出的形容词都以 **-ing** 结尾，从动词变化而来。比如，形容词 **relaxing** 来自动词 **relax**。
+- interesting
+- boring
+- relaxing
+- exciting
+- surprising
+以下是其他一些描述演出的形容词。
+- fun
+- incredible
+- loud
+- quiet
+- wonderful
+- terrible
+识记形容词的一个方法是同时学习它们的反义词。
+- interesting - boring 
+- relaxing - exciting 
+- loud - quiet 
+- wonderful - terrible  
+### 'Why' 和 'because'
+使用疑问词 **why** 询问原因，使用单词 **because** 说明原因。
+- A: **Why** did you go to Paris?
+- I went to Paris **because** it's beautiful!
+单词 **because** 引出原因从句，比如 **because it's beautiful**。原因从句与提出句子主题的主句共同使用，比如 **I went to Paris**。下面还有一些例子。
+- I go to that restaurant because it's cheap, and the food is delicious. 
+在英语口语中，常常只用带有 **because** 的分句回答问题。主句 (**I went to Paris**) 意思都明白。
+- A: **Why** did you go to Paris?
+- B: **Because** it's beautiful!
+### 建议活动
+提出活动建议有几种方法。
+**Let's + 搭配动词原形**
+- **Let's go** to the dance performance.
+**How about 或 what about + 搭配动名词**
+- **What about meeting** some friends?
+**Could + 搭配动词原形**
+- We **could go out** for a drink at Harry's Bar.
+**Why don't we + 搭配动词原形**
+- **Why don't we try** a new restaurant?
+
+## 看电影
+### 一般现在时表示的将来时
+谈论将来时，你有时可以使用一般现在时。如果谈及的演出活动隶属某计划表、时间表或演出日程，这种情况最为常见。表示演出开始或结束的动词，比如 **begin** 和 **close**，常常以一般现在时来表示将来时。
+表示演出开始的一般现在时
+- begin
+- start
+- open
+- The dance performance **begins** at 8 o'clock tonight.
+- Harold's Department Store **opens** at 9 a.m. tomorrow.
+表示演出结束的一般现在时
+- close
+- end
+- be over
+- finish
+- The movie **is over** at 9:15 p.m.
+- She closes her **shop** at 6 o'clock.
+语言点：记住在 **he**、**she** 和 **it** 后面，动词一般现在时后加 **s**。例如：
+- The movie end**s** at midnight.
+### 询问有关电影的信息
+想去看电影时，你需要了解有关电影的一些基本信息。你需要知道电影开始的时间、上映地点和电影票价。同时还要了解在哪里买票。使用下列问题来获取这一信息。
+- Can you give me some information?
+- Do you have a website?
+- Can I buy tickets online?
+- What's your address?
+- What time is the next show?
+- Are tickets still available?
+- How much are tickets?
+### 表达恼怒
+表达恼怒有许多方法。主要的方法是提高说话音量。这表达出强烈的情感。
+**重复**
+表达恼怒的另一种方法是重复短语表示强调。
+- OK, OK. I'm coming. I'm coming.
+**表达怀疑**
+通过表示你不相信某人做了某事，也能传达你的恼怒。
+- I don't believe it! 
+- I can't believe it!
+**夸张**
+你也可以通过夸大某人犯错的频率来表达愤怒。使用 always 和 never 来表示夸大。重读这些词来强调频率。
+- Jake **always** forgets.
+- Mary **never** helps me.
+**表达强烈的恼怒**
+你可以使用 **stupid** 或 **crazy** 等形容词表达程度更强的恼怒。如果你用这些词形容一个人，表示你不是恼怒，而是生气了。谨慎使用这些词，因为它们可能伤害人的感情。
+- This is **stupid**!
+- Are you **crazy**?
