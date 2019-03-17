@@ -166,6 +166,7 @@ Let's get some extra **side dishes** for everybody at the table.	我们给桌上
 - Waiter: No problem. I'll bring it back in just a minute.
 
 ### 阅读餐馆评论
+The Great Wall is my favorite restaurant. They serve authentic Chinese food. They have many different appetizers and entrees. The shrimp soup is an excellent appetizer, and the spicy beef entree is delicious. The restaurant is noisy, but all the servers are friendly and everybody has fun. The prices are very reasonable – most entrees are between $10 and $15. Desserts are not their specialty, but they always have ice cream. The restaurant is very busy on the weekends, so make a reservation.
 
 ### 询问账单和付账
 

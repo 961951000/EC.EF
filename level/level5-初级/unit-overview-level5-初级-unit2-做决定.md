@@ -119,3 +119,5 @@ modern conference facilities, too.
 如您看到的，所有这些动词都可接 **to** 后再接动词。
 
 ### 总结决定
+Dear managers,
+As mentioned in Friday's meeting, this year's conference will be in Miami Beach, Florida. It's the cheapest place and the nearest to our offices here. It will be at the Isla Larga Hotel, the best hotel in the city. It has excellent facilities. We'll use their two main conference rooms.
