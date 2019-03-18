@@ -27,7 +27,7 @@
 - B: **True**.
 - A: London's not as hot as Paris in the summer.
 - B: **Yes, but** Paris isn't as expensive.
-像 **Well** 和 **Hmm** 等词可以给我们时间思考接下来要说的话
+##### 像 **Well** 和 **Hmm** 等词可以给我们时间思考接下来要说的话
 - A: Which place is better?
 - B: **Well**, Moscow is very nice.
 - A: Which location is cheaper?
