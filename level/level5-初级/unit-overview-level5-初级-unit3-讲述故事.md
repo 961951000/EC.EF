@@ -147,7 +147,7 @@ I first met my best friend when we were swimming at summer camp. We were 8 years
 ##### 如果你觉得你知道对方的感受但不是完全肯定，使用动词 **seem**。
 - He **seemed** upset.
 ##### 描述对于某一事件的感受时，使用 **be** 和 **happen**等动词。
-- he hike **was** fantastic!
+- The hike **was** fantastic!
 - Something crazy **happened**.
 
 ### 叙述现在时
