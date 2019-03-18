@@ -20,7 +20,7 @@
 ##### 我们在介绍观点时，有许多词汇和短语可用于告诉他人我们要说的事情。在开始新的话题，**So** 就非常有用。
 - **So**, the conference is next month. 
 - **So**, we're having a meeting later today.
-要提出观点，我们可以使用像 **For me** 这样的短语。
+##### 要提出观点，我们可以使用像 **For me** 这样的短语。
 - **For me**, Rio is a better location.
 ##### 在表示同意或部分同意时，我们也可以使用 **True** 和 **Yes, but** 这种有用的词汇和短语。
 - A: London's not as hot as Paris in the summer.
