@@ -82,16 +82,16 @@
 
 #### 提供细节和例子
 ##### 写下主题句后，提供支持主题句的细节和例子。细节和例子可以帮助你清楚地表达主题的意思，同时读者也可能会觉得它们很有意思。
-阅读某人第一次遇见他的好友的情景。注意以下细节和例子：
-**swimming**
-**8 years old**
-**incredibly tall**
-**taller than others**
-**asked a question**
-**an orange swim cap**
-**a purple mouth**
-**laughed**
-My Best Friend Natasha
+###### 阅读某人第一次遇见他的好友的情景。注意以下细节和例子：
+- swimming
+- 8 years old
+- incredibly tall
+- taller than others
+- asked a question
+- an orange swim cap
+- a purple mouth
+- laughed
+###### My Best Friend Natasha
 I first met my best friend when we were swimming at summer camp. We were 8 years old. Natasha was incredibly tall. She was taller than all the other children. She asked me a question: 'Why are you wearing that orange swim cap?' So I asked her: 'Why are you so tall?' Natasha laughed. Her mouth was purple from eating strange candy. I laughed, too.
 
 ### 谈论关系
