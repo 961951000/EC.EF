@@ -111,7 +111,7 @@
 - The steak is **served with** mashed potatoes and peas. 
 - The fish **comes with** rice and beans. 
 ###### 如果您想要一份额外的食物，如薯条或蔬菜，来和您的主食一起吃或分享，那么您可以点一份 **side dish**.
-Let's get some extra **side dishes** for everybody at the table.	我们给桌上的每个人再来点配菜吧。
+Let's get some extra **side dishes** for everybody at the table.
 ###### **Desserts**通常放在菜单的末尾，许多**Desserts**是根据它们的原产国而得名的。听听以下**Desserts**的发音。
 - Ttiramisu
 - Tchocolate mousse
